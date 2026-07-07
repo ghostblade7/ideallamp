@@ -1,1 +1,5 @@
 body{background-color: aqua;}
+input{text-decoration-color: chocolate;}
+:placeholder-shown{text-decoration-color: antiquewhite;}
+h1{text-decoration: underline;}
+li{text-transform: capitalize;}
