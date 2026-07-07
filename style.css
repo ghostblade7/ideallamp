@@ -1,3 +1,5 @@
 body{background-color: aqua;}
 input{color: blue;}
-h1{text-decoration: underline;} h1{text-decoration: brown;}
+h1{color:red;
+text-decoration:underline;
+text-align: center;}
