@@ -1,11 +1,12 @@
 body{
-    background-color: aqua;
+    background-color:gray;
 }
 
 h1{
     color: red;
     text-align: center;
     text-decoration: underline;
+    text-decoration: solid;
 }
 
 h2{
@@ -18,12 +19,12 @@ li{
 }
 
 input{
-    width: 300px;
+    width: 200px;
     height: 35px;
     border-radius: 20px;
     color: chocolate;
 }
 
 input::placeholder{
-    color: gray;
+    color:cyan;
 }
