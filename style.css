@@ -1,5 +1,29 @@
-body{background-color: aqua;}
-input{color: blue;}
-h1{color:red;
-text-decoration:underline;
-text-align: center;}
+body{
+    background-color: aqua;
+}
+
+h1{
+    color: red;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2{
+    color: blue;
+}
+
+li{
+    color: green;
+    text-transform: capitalize;
+}
+
+input{
+    width: 300px;
+    height: 35px;
+    border-radius: 20px;
+    color: chocolate;
+}
+
+input::placeholder{
+    color: gray;
+}
